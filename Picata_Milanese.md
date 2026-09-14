@@ -7,7 +7,7 @@ Author: Claudio
 | **Vorbereitungszeit** | 15 Min. |
 | **Kochzeit** | 20 Min. |
 
-![Titelbild](https://github.com/cprezzi/MakersBestCooking/blob/main/images/picata.jpg)
+<!--![Titelbild](https://github.com/cprezzi/MakersBestCooking/blob/main/images/picata.jpg)-->
 
 ---
 
