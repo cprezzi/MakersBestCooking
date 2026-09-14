@@ -7,7 +7,7 @@ Author: Claudio
 | **Vorbereitungszeit** | 40 Min. |
 | **Kochzeit** | 20 Min. |
 
-![Titelbild](https://github.com/cprezzi/MakersBestCooking/blob/main/images/spinat_gnocchi.jpg)
+<!--![Titelbild](https://github.com/cprezzi/MakersBestCooking/blob/main/images/spinat_gnocchi.jpg)-->
 
 ---
 
@@ -22,7 +22,7 @@ Author: Claudio
 | 650g Blattspinat | Den Spinat kurz in einem Topf mit wenig Wasser erwellen bis er zusammenfällt. Danach in kaltem Wasser abschrecken, gut ausdrücken, damit überschüssiges Wasser entweicht, und fein hacken. Falls TK-Spinat verwendet wird, reichen ca. 450g. |
 | | |
 | | **Schritt 3 — Teig herstellen** |
-| 2-3 Eier (je nach Grösse), 8 EL Mehl, Salz, Pfeffer | Den ausgedrückten Spinat, das Ei, den Parmesan und das Mehl zur eingeweichten Brotmasse geben. Mit Salz & Pfeffer würzen. Alles zu einem formbaren Teig kneten. Sollte der Teig zu klebrig sein, noch 1-2 EL Mehl hinzufügen. |
+| 2-3 Eier (je nach Grösse), 8 EL Mehl, Salz, Pfeffer | Den ausgedrückten Spinat, die Eier und das Mehl zur eingeweichten Brotmasse geben. Mit Salz & Pfeffer würzen. Alles zu einem formbaren Teig kneten. Sollte der Teig zu klebrig sein, noch 1-2 EL Mehl hinzufügen. |
 | | |
 | | **Schritt 4 — Gnocchi formen** |
 |  | Mit zwei Esslöffeln kleine Nocken formen und auf ein Brett oder Backblech auslegen. Wer flink arbeitet, kann die Noken auch direkt nach dem formen ins siedende Wasser werfen. |
