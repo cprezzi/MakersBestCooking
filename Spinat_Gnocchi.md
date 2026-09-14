@@ -7,7 +7,7 @@ Author: Claudio
 | **Vorbereitungszeit** | 40 Min. |
 | **Kochzeit** | 20 Min. |
 
-<!--![Titelbild](https://github.com/cprezzi/MakersBestCooking/blob/main/images/Gemini_Generated_Image_rpnhyirpnhyirpnh_Spinat-Gnocchi.jpg)-->
+<!--![Titelbild](https://github.com/cprezzi/MakersBestCooking/blob/main/images/Spinat-Gnocchi.jpg)-->
 
 ---
 
